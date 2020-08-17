@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, my name is ooOsH
+#### I am a Creative Front-End Developer
+
+- 🔭 I’m currently working @[so-sure](https://github.com/so-sure "Social Mobile Phone Insurance That's Better")
+- 🌱 I’m currently learning VueJS
+- 💬 Ask me about my many leather bound books
 
 <!--
 **ooOsH/ooOsH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
