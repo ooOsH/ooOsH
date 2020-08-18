@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is ooOsH
 #### I am a Creative Front-End Developer
 
-- 🔭 I’m currently working @[so-sure](https://github.com/so-sure "Social Mobile Phone Insurance That's Better")
-- 🌱 I’m currently learning VueJS
+- 🔭 I’m currently working [@so-sure](https://github.com/so-sure "Social Mobile Phone Insurance That's Better")
+- 🌱 I’m currently learning and making cool things in VueJS
 - 💬 Ask me about my many leather bound books
 
 <!--
