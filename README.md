@@ -1,15 +1,17 @@
 ## Hi, I'm Nick 👋
-I'm a South London based frontend engineer utilising modern JS frameworks tooling to build beautiful user experiences (and occasionally designing them too)
+I’m a frontend developer who’s passionate about creating awesome user experiences for consumers (and occasionally designing them too). I love using modern frameworks and tools to make things easier and more efficient.
 
-👩‍💻 I'm currently working on a new kind of aggregator site for the insurance industry
+👩‍💻 I'm currently open to new work in early stage startups and SMEs - contract or full-time.
 
-🧠 I'm currently learning how to better utilise Nuxt 3 and its integrations to make fantastic web applications
+👯‍♀️ I'm looking for roles where I can make an impact right away in the following industries: tech for good, automotive, health and wellness, sustainable fashion and apparel, social impact projects.
 
-👯‍♀️ I'm looking to collaborate on tech for good and fintech startups
+🧠 I'm currently learning how to better utilise Nuxt 3 to make better web applications and dabbling in the awesomeness of tailwind.
 
-🤔 I'm looking for help with integrating AI into a user journey to save the user times
+🚲 I'm currently working on my own brand to sell bike accessories that help donate to good causes.
 
-📫 How to reach me - contact@nickwaller.co.uk
+🍝 I'm co-host of [Spaghetti Supper Club](https://spaghettisupper.club/), a monthly gathering with pasta, friends & guests, crafty activities with guided conversations.
+
+📫 How to reach me - [contact@nickwaller.co.uk](mailto:contact@nickwaller.co.uk)
 
 
 ## 🛠 Skills
