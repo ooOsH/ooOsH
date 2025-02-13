@@ -1,13 +1,13 @@
 ## Hi, I'm Nick 👋
-I’m a frontend developer who’s passionate about creating awesome user experiences for consumers (and occasionally designing them too). I love using modern frameworks and tools to make things easier and more efficient.
+I’m a frontend developer who’s passionate about creating awesome user experiences with modern frameworks and tool for consumers and businesses — and occasionally designing them too!
 
 👩‍💻 I'm currently open to new work in early stage startups and SMEs - contract or full-time.
 
-👯‍♀️ I'm looking for roles where I can make an impact right away in the following industries: tech for good, automotive, health and wellness, sustainable fashion and apparel, social impact projects.
+👯‍♀️ I'm looking for roles remote/hybrid where I can make an impact right away in the following industries: tech for good, automotive, health and wellness, sustainable fashion and apparel, social impact projects.
 
-🧠 I'm currently learning how to better utilise Nuxt 3 to make better web applications and dabbling in the awesomeness of tailwind.
+🧠 I'm currently learning how to better utilise Nuxt and Tailwind to make better websites and applications.
 
-🚲 I'm currently working on my own brand to sell bike accessories that help donate to good causes.
+🚲 I'm currently working on my own brand to sell clothing and accessories that help donate to good causes.
 
 🍝 I'm co-host of [Spaghetti Supper Club](https://spaghettisupper.club/), a monthly gathering with pasta, friends & guests, crafty activities with guided conversations.
 
