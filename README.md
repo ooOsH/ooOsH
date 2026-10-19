@@ -1,24 +1,17 @@
-## Hi, I'm Nick 👋
-I’m a frontend developer who’s passionate about creating awesome user experiences with modern frameworks and tool for consumers and businesses — and occasionally designing them too!
+## Hi, I'm Nick
 
-👩‍💻 I'm currently open to new work in early stage startups and SMEs - contract or full-time.
+Frontend designer and developer based in South London. I build websites and web apps with Vue and Nuxt, and sometimes design them too.
 
-👯‍♀️ I'm looking for roles remote/hybrid where I can make an impact right away in the following industries: tech for good, automotive, health and wellness, sustainable fashion and apparel, social impact projects.
+- 🛠 Frontend at [Design Bench Studio](https://designbench.studio/), a brand and digital studio I run with Ana Grigorovici
+- 💼 Taking on select freelance projects as Say Yes: frontend builds, Wix Velo, WordPress plugins and web consulting
+- 📱 Building [Lustre](https://getlustre.co.uk/), a device check and verification tool
+- 🚲 Running Pineapple Supply, custom bike builds and parts in South London, and volunteering at Baby LDN Bikes
+- 🍝 Co-host of [Spaghetti Supper Club](https://spaghettisupper.club/), a monthly evening of pasta, conversation and guests
 
-🧠 I'm currently learning how to better utilise Nuxt and Tailwind to make better websites and applications.
+📫 [contact@nickwaller.co.uk](mailto:contact@nickwaller.co.uk)
 
-🚲 I'm currently working on my own brand to sell clothing and accessories that help donate to good causes.
+## Stack
+Vue 3, Nuxt, Pinia, Tailwind, TypeScript, Wix Velo, WordPress, Firebase, Cypress, REST APIs, pdf-lib, ReportLab
 
-🍝 I'm co-host of [Spaghetti Supper Club](https://spaghettisupper.club/), a monthly gathering with pasta, friends & guests, crafty activities with guided conversations.
-
-📫 How to reach me - [contact@nickwaller.co.uk](mailto:contact@nickwaller.co.uk)
-
-
-## 🛠 Skills
-HTML, CSS, JS, Vue.js, Nuxt, Angular, Cypress, Pinia, Tailwind, Git, Github, Rest API integration, Firebase, Heroku, Google Analytics, Mixpanel
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nickwaller.couk/)
+## Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickwaller/)
-
